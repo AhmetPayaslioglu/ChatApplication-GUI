@@ -12,3 +12,5 @@ Then we start client.py.You can give users any name you want.
 ![image](https://user-images.githubusercontent.com/46576332/107150223-192a2700-695d-11eb-8470-d794d3079c82.png)
 
 I created 2 client. Then it will open GUI to chat application. You can write someting to check.
+
+![chat](https://user-images.githubusercontent.com/46576332/107150382-d452c000-695d-11eb-91b6-2d8e57273516.png)
