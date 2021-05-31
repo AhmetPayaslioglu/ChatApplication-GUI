@@ -16,6 +16,6 @@ I created 2 client. Then it will open GUI to chat application. You can write som
 ![chat](https://user-images.githubusercontent.com/46576332/107150382-d452c000-695d-11eb-91b6-2d8e57273516.png)
 
 # Video
-Click to see full video in YOUTUBE !
+Click to see the full video on YOUTUBE!
 
 [![Alt text](https://img.youtube.com/vi/X7aVpS2pGDg/0.jpg)](https://www.youtube.com/watch?v=X7aVpS2pGDg)
